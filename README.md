@@ -8,7 +8,6 @@
 - Variables, Numbers, Strings
 - Basic operations and string methods
 - Interactive coding exercises with variables and strings
-</br>
 
 **Day 2: Python Basics II**
   
