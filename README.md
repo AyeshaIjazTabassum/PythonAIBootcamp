@@ -15,3 +15,9 @@
 - Lists, Dictionaries, Tuples
 - Basic operations and methods
 - Data structure manipulation exercises
+
+**Day 3: Control Structures**
+- If conditions and logical operators
+- For loops and while loops
+- Loop exercises and conditional logic
+- Build a number guessing game
