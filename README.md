@@ -24,4 +24,4 @@
 **Day 4: Functions & Error Handling**
 - Functions, parameters, return values
 - Local and Global variables
-- File handlinglike read, write, append
+- File handling as read, write, append
