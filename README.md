@@ -20,3 +20,8 @@
 - For loops and while loops
 - Loop exercises and conditional logic
 - Build a number guessing game
+
+**Day 4: Functions & Error Handling**
+- Functions, parameters, return values
+- Local and Global variables
+- File handlinglike read, write, append
