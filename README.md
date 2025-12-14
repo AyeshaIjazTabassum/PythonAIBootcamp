@@ -27,7 +27,7 @@
 - File handling as read, write, append
 
 **Day 5: Web Scraping**
-- HTTP requests and HTML structure
+- Web Scraping, HTTP requests and HTML structure
 - BeautifulSoup basics
 - Scrape a simple website
 - Extract and save data to CSV/JSON
