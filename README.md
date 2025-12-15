@@ -39,3 +39,46 @@
   - Favorite Programming Language
 - Display the output using formatted strings (f-strings).
 - Print the data type of each variable.
+
+**TASK 2: CONTROL FLOW & LOGIC BUILDING**
+- Ask the user to enter a number.
+- Determine and display:
+  - Whether the number is positive, negative, or zero.
+  - Whether the number is even or odd.
+- Handle invalid input using try-except blocks.
+
+**TASK 3: LOOPS & PATTERN GENERATION**
+- Print all prime numbers between 1 and 100.
+- Use nested loops where applicable.
+
+**TASK 4: FUNCTIONS & MODULAR PROGRAMMING**
+- Build a function-based calculator that supports:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division (handle division by zero)
+- Implement a menu-driven interface.
+- Each operation must be implemented as a separate function.
+
+**TASK 5: INTRO TO AI THINKING WITH PYTHON**
+- Create a dataset of students containing:
+  - Student Name
+  - Marks
+- Calculate and display:
+  - Average marks
+  - Highest score
+  - Lowest score
+- Classify student performance using the following rules:
+  - Marks 80 or above → Excellent
+  - Marks between 60 and 79 → Good
+  - Below 60 → Needs Improvement
+ 
+**TASK 6: WEB SCRAPING WITH PYTHON**
+- Use the requests and BeautifulSoup libraries.
+- Scrape data from a public website (such as quotes, headlines, job titles, or product names).
+- Extract at least:
+  - Title or heading
+  - Description or related text
+  - Store the scraped data in a Python list or dictionary.
+- Display the extracted data in a clean and readable format.
+- Bonus (Optional): Save the scraped data into a .txt or .csv file.
