@@ -31,4 +31,11 @@
 - BeautifulSoup basics
 - Scrape a simple website
 - Extract and save data to CSV/JSON
-
+# Assignment Week-1
+**TASK 1: PYTHON BASICS & VARIABLES**
+- Take user input for:
+  - Name
+  - Age
+  - Favorite Programming Language
+- Display the output using formatted strings (f-strings).
+- Print the data type of each variable.
