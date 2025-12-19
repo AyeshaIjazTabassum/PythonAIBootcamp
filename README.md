@@ -82,3 +82,11 @@
   - Store the scraped data in a Python list or dictionary.
 - Display the extracted data in a clean and readable format.
 - Bonus (Optional): Save the scraped data into a .txt or .csv file.
+
+# Week 2: Data Analysis & Machine Learning Foundations
+**Day 6: Data Analysis with Pandas**
+- Introduction to NumPy and Pandas
+- DataFrames and basic operations
+- Load and explore the scraped data from weekend
+- Basic data cleaning operations
+
