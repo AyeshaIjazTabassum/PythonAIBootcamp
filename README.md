@@ -90,3 +90,7 @@
 - Load and explore the scraped data from weekend
 - Basic data cleaning operations
 
+**Day 7: Exploratory Data Analysis**
+- Data visualization with Matplotlib/Seaborn
+- Handling missing values and outliers
+- Create meaningful visualizations
