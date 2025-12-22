@@ -94,3 +94,10 @@
 - Data visualization with Matplotlib/Seaborn
 - Handling missing values and outliers
 - Create meaningful visualizations
+
+**Day 8: Introduction to Machine Learning**
+- Supervised vs Unsupervised learning
+- Training, validation, testing concepts
+- Prepare data for machine learning
+- Train-test split and basic preprocessing
+
