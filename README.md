@@ -101,3 +101,8 @@
 - Prepare data for machine learning
 - Train-test split and basic preprocessing
 
+**Day 9: Classification - KNN**
+- K-Nearest Neighbors algorithm
+- Model evaluation metrics
+- Implement KNN classifier
+- Evaluate with confusion matrix and accuracy
