@@ -106,3 +106,8 @@
 - Model evaluation metrics
 - Implement KNN classifier
 - Evaluate with confusion matrix and accuracy
+
+**Day 10: Classification - Decision Trees**
+- Decision Trees and Random Forest
+- Feature importance
+- Build and compare multiple classification models
