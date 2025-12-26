@@ -111,3 +111,62 @@
 - Decision Trees and Random Forest
 - Feature importance
 - Build and compare multiple classification models
+
+# Assignment Week-1
+**Task 1: Data Loading & Cleaning (Pandas)**
+- Students must:
+  - Load the dataset using Pandas
+  - Check missing values and duplicates
+  - Handle missing or incorrect data
+- Reasoning Questions:
+  - Why is data cleaning a critical step before EDA and model training?
+  - What problems can incorrect or missing medical data cause in predictions?
+  - Which cleaning decision had the biggest impact on your dataset?
+**Task 2: Exploratory Data Analysis (EDA)**
+- Students must visualize:
+  - Age distribution (Histogram)
+  - Gender vs Heart Disease (Bar chart)
+  - Cholesterol outliers (Boxplot)
+  - Feature correlation (Heatmap)
+- Reasoning Quesions:
+  - Which age group appears to have the highest heart disease risk? Why?
+  - Does cholesterol alone seem sufficient to predict heart disease?
+  - Which features appear most strongly related to the target?
+  - How can outliers affect model performance in medical datasets?
+**Task 3: Machine Learning Preprocessing**
+- Students must:
+  - Separate features (X) and target (y)
+  - Apply train–test split
+  - Apply feature scaling
+- Reasoning Questions:
+  - Why do we split data into training and testing sets?
+  - Why is feature scaling necessary before applying KNN?
+  - What is data leakage, and how does preprocessing help prevent it?
+**Task 4: KNN Classification**
+- Students must:
+  - Train KNN classifier
+  - Experiment with multiple values of K
+  - Evaluate using accuracy and confusion matrix
+- Reasoning Questions:
+  - How does the value of K influence bias and variance?
+  - Why does KNN performance change after scaling?
+  - What are the limitations of KNN in a healthcare setting?
+**Task 5: Decision Tree & Random Forest**
+- Students must:
+  - Train a Decision Tree classifier
+  - Train a Random Forest classifier
+  - Extract feature importance
+- Reasoning Questions:
+  - Which model performed better: Decision Tree or Random Forest? Why?
+  - Which health-related feature was most important and why?
+  - Why is Random Forest considered more stable and reliable than a single tree?
+**Task 6: Model Comparison & Recommendation**
+- Students must:
+  - Compare KNN, Decision Tree, and Random Forest
+  - Plot accuracy comparison
+  - Recommend a final model
+- Reasoning Questions:
+  - Which model worked best overall, and what explains its performance?
+  - Which model would you recommend for real hospital deployment and why?
+  - What did you learn about ML model behavior from this case study?
+  - How could this system be improved in future work?
