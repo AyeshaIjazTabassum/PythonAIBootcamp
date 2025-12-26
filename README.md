@@ -122,6 +122,7 @@
   - Why is data cleaning a critical step before EDA and model training?
   - What problems can incorrect or missing medical data cause in predictions?
   - Which cleaning decision had the biggest impact on your dataset?
+
 **Task 2: Exploratory Data Analysis (EDA)**
 - Students must visualize:
   - Age distribution (Histogram)
@@ -133,6 +134,7 @@
   - Does cholesterol alone seem sufficient to predict heart disease?
   - Which features appear most strongly related to the target?
   - How can outliers affect model performance in medical datasets?
+
 **Task 3: Machine Learning Preprocessing**
 - Students must:
   - Separate features (X) and target (y)
@@ -142,6 +144,7 @@
   - Why do we split data into training and testing sets?
   - Why is feature scaling necessary before applying KNN?
   - What is data leakage, and how does preprocessing help prevent it?
+
 **Task 4: KNN Classification**
 - Students must:
   - Train KNN classifier
@@ -151,6 +154,7 @@
   - How does the value of K influence bias and variance?
   - Why does KNN performance change after scaling?
   - What are the limitations of KNN in a healthcare setting?
+
 **Task 5: Decision Tree & Random Forest**
 - Students must:
   - Train a Decision Tree classifier
@@ -160,6 +164,7 @@
   - Which model performed better: Decision Tree or Random Forest? Why?
   - Which health-related feature was most important and why?
   - Why is Random Forest considered more stable and reliable than a single tree?
+
 **Task 6: Model Comparison & Recommendation**
 - Students must:
   - Compare KNN, Decision Tree, and Random Forest
