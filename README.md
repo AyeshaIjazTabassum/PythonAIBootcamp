@@ -112,7 +112,7 @@
 - Feature importance
 - Build and compare multiple classification models
 
-# Assignment Week-1
+# Assignment Week-2
 **Task 1: Data Loading & Cleaning (Pandas)**
 - Students must:
   - Load the dataset using Pandas
