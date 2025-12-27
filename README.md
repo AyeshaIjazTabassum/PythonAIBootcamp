@@ -175,3 +175,11 @@
   - Which model would you recommend for real hospital deployment and why?
   - What did you learn about ML model behavior from this case study?
   - How could this system be improved in future work?
+ 
+# Week 3: Advanced Machine Learning & Deep Learning Intro
+**Day 11: Regression Models**
+- Linear Regression concepts
+- Regression evaluation metrics (MSE, RMSE, R²)
+- Build linear regression models
+- Compare with KNN regression
+
