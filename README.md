@@ -180,6 +180,4 @@
 **Day 11: Regression Models**
 - Linear Regression concepts
 - Regression evaluation metrics (MSE, RMSE, R²)
-- Build linear regression models
-- Compare with KNN regression
-
+- Build linear regression model
