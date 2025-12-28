@@ -186,5 +186,4 @@
 - Logistic Regression
 - Ensemble methods overview
 - Implement logistic regression
-- Evaluation Mertics
-
+- Evaluation Matrices
