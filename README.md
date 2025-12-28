@@ -181,3 +181,10 @@
 - Linear Regression concepts
 - Regression evaluation metrics (MSE, RMSE, R²)
 - Build linear regression model
+
+**Day 12: Advanced Classification**
+- Logistic Regression
+- Ensemble methods overview
+- Implement logistic regression
+- Evaluation Mertics
+
