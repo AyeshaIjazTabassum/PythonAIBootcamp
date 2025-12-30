@@ -193,3 +193,9 @@
 - K-means and hierarchical clustering
 - Flower segmentation project
 - Cluster evaluation and visualization
+
+**Day 14: Neural Networks Basics**
+- Neural network fundamentals
+- Activation functions and backpropagation
+- Build simple neural network with scikit-learn
+- Compare with traditional ML models
