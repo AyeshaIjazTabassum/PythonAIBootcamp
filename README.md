@@ -187,3 +187,9 @@
 - Ensemble methods overview
 - Implement logistic regression
 - Evaluation Matrices
+
+**Day 13: Unsupervised Learning**
+- Clustering concepts
+- K-means and hierarchical clustering
+- Flower segmentation project
+- Cluster evaluation and visualization
