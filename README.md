@@ -205,3 +205,8 @@
 - Deep neural networks
 - Build first deep learning model
 - Train on images data
+
+# Assignment Week-3
+**Task**
+- Build a deep learning model using TensorFlow/Keras and for a real-world dataset.
+- Dataset choice is yours; you can utilize sources like Kaggle or datasets of keras.
