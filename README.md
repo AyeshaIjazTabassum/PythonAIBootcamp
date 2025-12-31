@@ -210,3 +210,10 @@
 **Task**
 - Build a deep learning model using TensorFlow/Keras and for a real-world dataset.
 - Dataset choice is yours; you can utilize sources like Kaggle or datasets of keras.
+
+# Week 4: Computer Vision & NLP
+**Day 16: Image Processing Basics**
+- Image data handling
+- Basic image preprocessing
+- Load and manipulate images
+- Basic image transformations
