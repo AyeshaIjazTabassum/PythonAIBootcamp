@@ -199,3 +199,9 @@
 - Activation functions and backpropagation
 - Build simple neural network with scikit-learn
 - Compare with traditional ML models
+
+**Day 15: Deep Learning with TensorFlow**
+- Introduction to TensorFlow/Keras
+- Deep neural networks
+- Build first deep learning model
+- Train on images data
