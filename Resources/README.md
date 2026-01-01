@@ -1,0 +1,1 @@
+- sample.png for Day 16 Practice.
