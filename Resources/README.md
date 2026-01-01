@@ -1,4 +1,5 @@
-- **store.csv** is for Day 7 related Practice.
-- **school1.csv** is for Day 8 related Practice.
-- **students_dataset.csv** is for Day 9 related Practice.
-- **sample.png** is for Day 16 related Practice.
+- **store.csv** is related to Day 7.
+- **school1.csv** is related to Day 8.
+- **students_dataset.csv** is related to Day 9.
+- **heart.csv** is related to Assignment 2.
+- **sample.png** is related to Day 16.
