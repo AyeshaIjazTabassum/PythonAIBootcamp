@@ -1,0 +1,76 @@
+customer_id,age,gender,income,credit_score,purchase_amount,payment_method,city,membership_duration_months,churn,last_purchase_days_ago,satisfaction_score,purchase_frequency,avg_monthly_spend,product_category,num_complaints,marketing_emails_opened,device_type,subscription_type,has_promo_code,days_since_account_creation
+1,34,Male,75000,720,450.50,Credit Card,New York,24,No,15,8,12,425.75,Electronics,0,8,Mobile,Premium,Yes,540
+2,28,Female,52000,680,320.75,PayPal,Los Angeles,18,No,5,9,8,280.50,Fashion,1,12,Desktop,Basic,No,365
+3,45,Female,92000,780,890.00,Credit Card,Chicago,36,Yes,120,4,4,320.25,Home & Kitchen,3,2,Tablet,Premium,Yes,720
+4,52,Male,110000,810,1250.25,Debit Card,Houston,48,No,2,10,15,980.75,Electronics,0,15,Mobile,Premium,Yes,1080
+5,23,Male,35000,650,150.00,PayPal,New York,6,No,30,7,6,125.30,Fashion,0,4,Mobile,Basic,No,120
+6,41,Female,68000,710,540.80,Credit Card,Los Angeles,30,No,8,8,10,420.60,Beauty,1,10,Desktop,Premium,Yes,600
+7,37,Male,82000,740,720.90,Debit Card,Chicago,28,Yes,95,5,5,310.45,Electronics,2,3,Tablet,Basic,No,560
+8,29,Female,48000,660,280.45,PayPal,Houston,12,No,12,8,9,245.80,Fashion,0,9,Mobile,Basic,No,300
+9,56,Male,125000,830,1560.75,Credit Card,New York,60,No,1,9,18,1200.25,Electronics,1,20,Desktop,Premium,Yes,1560
+10,31,Female,59000,690,380.20,Debit Card,Los Angeles,20,No,25,7,7,320.15,Beauty,0,6,Mobile,Basic,Yes,450
+11,48,Female,95000,790,980.60,Credit Card,Chicago,42,Yes,110,3,3,280.90,Home & Kitchen,4,1,Desktop,Basic,No,900
+12,26,Male,42000,640,210.30,PayPal,Houston,9,No,18,6,5,180.45,Fashion,1,3,Mobile,Basic,No,180
+13,39,Male,77000,730,610.45,Credit Card,New York,32,No,7,9,11,495.80,Electronics,0,12,Desktop,Premium,Yes,720
+14,44,Female,88000,760,820.15,Debit Card,Los Angeles,38,No,3,8,13,680.40,Beauty,0,14,Tablet,Premium,Yes,840
+15,50,Male,105000,800,1320.90,Credit Card,Chicago,52,Yes,130,2,2,245.75,Home & Kitchen,5,0,Desktop,Basic,No,1120
+16,27,Female,46000,670,260.80,PayPal,Houston,14,No,20,7,8,220.60,Fashion,0,8,Mobile,Basic,Yes,320
+17,33,Male,71000,715,490.25,Debit Card,New York,26,No,10,8,9,410.35,Electronics,1,10,Desktop,Premium,No,520
+18,42,Female,83000,750,710.40,Credit Card,Los Angeles,34,No,6,9,12,590.20,Beauty,0,13,Mobile,Premium,Yes,680
+19,47,Male,98000,795,920.75,Debit Card,Chicago,46,Yes,115,4,4,350.85,Electronics,3,2,Tablet,Basic,No,920
+20,25,Female,40000,630,180.90,PayPal,Houston,8,No,28,6,4,155.25,Fashion,2,2,Mobile,Basic,No,160
+21,38,Female,85000,745,675.80,Credit Card,Miami,29,No,9,8,10,560.90,Beauty,0,11,Desktop,Premium,Yes,580
+22,53,Male,115000,815,1420.60,Credit Card,Boston,55,No,4,10,16,1100.45,Electronics,0,18,Mobile,Premium,Yes,1320
+23,29,Male,49000,665,295.75,PayPal,Seattle,11,No,14,7,7,250.80,Fashion,1,7,Mobile,Basic,No,240
+24,46,Female,90000,775,835.20,Debit Card,Austin,40,No,5,8,11,690.15,Home & Kitchen,0,12,Desktop,Premium,Yes,800
+25,32,Male,69000,705,425.90,Credit Card,Denver,22,No,11,7,8,355.40,Electronics,0,9,Tablet,Basic,Yes,440
+26,60,Male,130000,840,1680.45,Credit Card,New York,65,Yes,145,1,1,210.30,Home & Kitchen,6,0,Desktop,Basic,No,1560
+27,26,Female,43000,645,225.60,PayPal,Los Angeles,7,No,22,6,5,195.75,Fashion,0,4,Mobile,Basic,No,140
+28,49,Female,97000,785,905.80,Debit Card,Chicago,44,Yes,105,3,3,305.90,Beauty,4,1,Desktop,Basic,No,880
+29,35,Male,73000,725,530.25,Credit Card,Houston,27,No,13,8,10,445.60,Electronics,0,11,Desktop,Premium,Yes,540
+30,43,Female,87000,755,765.90,Debit Card,New York,37,No,8,9,12,630.25,Home & Kitchen,1,13,Mobile,Premium,Yes,740
+31,22,Male,32000,620,120.50,PayPal,Los Angeles,3,No,45,5,3,105.80,Fashion,2,1,Mobile,Basic,No,60
+32,55,Male,120000,825,1480.35,Credit Card,Boston,58,No,3,9,14,1150.90,Electronics,0,16,Desktop,Premium,Yes,1240
+33,30,Female,51000,675,310.20,Debit Card,Seattle,16,No,16,7,6,265.45,Fashion,0,6,Tablet,Basic,No,320
+34,51,Female,103000,805,1280.75,Credit Card,Austin,50,Yes,125,2,2,290.60,Home & Kitchen,5,0,Desktop,Basic,No,1040
+35,36,Male,76000,735,585.40,Debit Card,Denver,25,No,9,8,9,490.75,Electronics,1,10,Mobile,Premium,Yes,500
+36,28,Male,47000,655,245.90,PayPal,New York,10,No,19,6,7,210.30,Fashion,0,7,Mobile,Basic,No,200
+37,54,Female,118000,820,1405.60,Credit Card,Los Angeles,56,No,2,10,15,1080.45,Beauty,0,17,Desktop,Premium,Yes,1160
+38,24,Female,38000,625,165.75,PayPal,Chicago,5,No,35,5,4,140.90,Fashion,1,3,Tablet,Basic,No,100
+39,40,Male,80000,738,680.20,Debit Card,Houston,31,No,7,8,10,560.35,Electronics,0,11,Desktop,Premium,Yes,620
+40,57,Male,128000,835,1600.80,Credit Card,Boston,62,Yes,140,1,1,225.60,Home & Kitchen,7,0,Mobile,Basic,No,1480
+41,27,Female,44500,648,235.40,PayPal,Seattle,8,No,21,6,6,200.15,Fashion,0,5,Mobile,Basic,Yes,160
+42,48,Male,94000,788,870.90,Debit Card,Austin,43,Yes,100,4,4,315.80,Electronics,3,2,Desktop,Basic,No,860
+43,34,Female,72000,722,505.75,Credit Card,Denver,23,No,14,7,8,420.60,Beauty,0,9,Tablet,Premium,Yes,460
+44,31,Male,60500,695,365.30,Debit Card,New York,19,No,24,7,7,305.45,Fashion,1,8,Mobile,Basic,No,380
+45,59,Female,135000,845,1750.25,Credit Card,Los Angeles,68,Yes,150,1,1,240.90,Home & Kitchen,8,0,Desktop,Basic,No,1640
+46,25,Male,41500,642,205.80,PayPal,Chicago,7,No,26,6,5,175.30,Fashion,0,4,Mobile,Basic,No,140
+47,39,Female,78500,728,595.60,Debit Card,Houston,33,No,10,8,9,490.75,Beauty,0,10,Desktop,Premium,Yes,660
+48,29,Female,49500,668,285.45,PayPal,Boston,13,No,17,7,7,240.90,Fashion,1,7,Mobile,Basic,No,260
+49,52,Male,108000,808,1305.90,Credit Card,Seattle,51,No,6,9,13,1010.25,Electronics,0,14,Mobile,Premium,Yes,960
+50,37,Male,74500,727,555.80,Debit Card,Austin,24,No,11,8,9,460.40,Home & Kitchen,0,10,Desktop,Premium,Yes,480
+51,42,Female,86000,758,740.65,Credit Card,Denver,35,No,4,9,11,610.80,Beauty,0,12,Tablet,Premium,Yes,700
+52,26,Male,42500,643,215.20,PayPal,New York,9,No,23,6,6,185.45,Fashion,0,5,Mobile,Basic,No,180
+53,61,Male,140000,850,1820.75,Credit Card,Los Angeles,72,Yes,160,1,1,255.30,Electronics,9,0,Desktop,Basic,No,1720
+54,33,Female,67500,712,475.90,Debit Card,Chicago,21,No,12,7,8,395.60,Fashion,0,9,Mobile,Premium,Yes,420
+55,44,Male,89000,768,800.45,Credit Card,Houston,39,No,5,8,10,660.25,Electronics,0,11,Desktop,Premium,Yes,780
+56,30,Female,53000,685,335.80,PayPal,Boston,15,No,15,7,7,280.90,Beauty,1,8,Tablet,Basic,No,300
+57,47,Female,92500,782,855.30,Debit Card,Seattle,41,Yes,108,3,3,310.75,Home & Kitchen,4,1,Desktop,Basic,No,820
+58,35,Male,71500,718,515.75,Credit Card,Austin,26,No,13,7,9,430.20,Electronics,0,10,Mobile,Premium,Yes,520
+59,28,Female,48500,663,275.60,PayPal,Denver,11,No,18,7,8,235.45,Fashion,0,8,Mobile,Basic,No,220
+60,58,Female,132000,838,1655.40,Credit Card,New York,66,Yes,138,2,2,270.80,Home & Kitchen,7,0,Tablet,Basic,No,1580
+61,24,Male,39500,628,175.90,PayPal,Los Angeles,4,No,32,5,4,150.35,Fashion,1,2,Mobile,Basic,No,80
+62,41,Male,83500,752,695.25,Debit Card,Chicago,32,No,8,8,10,575.90,Electronics,1,11,Desktop,Premium,Yes,640
+63,32,Female,62500,698,395.80,Credit Card,Houston,17,No,20,7,7,330.45,Beauty,0,8,Tablet,Basic,Yes,340
+64,49,Male,95500,792,945.60,Debit Card,Boston,45,Yes,112,3,3,340.20,Electronics,3,2,Mobile,Basic,No,900
+65,36,Female,74000,732,570.90,Credit Card,Seattle,25,No,10,8,9,475.60,Home & Kitchen,0,10,Desktop,Premium,Yes,500
+66,27,Male,45500,658,250.75,PayPal,Austin,12,No,16,6,7,215.30,Fashion,0,7,Mobile,Basic,No,240
+67,50,Female,106000,803,1350.25,Credit Card,Denver,53,Yes,128,2,2,300.90,Beauty,5,0,Desktop,Basic,No,1060
+68,38,Male,77500,728,600.80,Debit Card,New York,30,No,9,8,10,495.45,Electronics,0,11,Mobile,Premium,Yes,600
+69,31,Female,57500,688,355.40,PayPal,Los Angeles,18,No,19,7,7,295.80,Fashion,1,8,Tablet,Basic,No,360
+70,46,Male,91500,778,880.75,Credit Card,Chicago,40,Yes,102,4,4,320.60,Home & Kitchen,4,1,Desktop,Basic,No,800
+71,29,Male,50000,670,305.90,Debit Card,Houston,14,No,14,7,8,255.45,Fashion,0,8,Mobile,Basic,Yes,280
+72,54,Female,116000,818,1380.60,Credit Card,Boston,57,No,1,9,14,1065.30,Electronics,0,15,Desktop,Premium,Yes,1140
+73,25,Female,41000,638,195.25,PayPal,Seattle,6,No,27,6,5,170.90,Fashion,2,3,Mobile,Basic,No,120
+74,40,Female,79500,736,665.80,Debit Card,Austin,29,No,6,8,9,550.75,Beauty,0,10,Tablet,Premium,Yes,580
+75,56,Male,122000,828,1520.45,Credit Card,Denver,61,Yes,135,1,1,235.60,Home & Kitchen,6,0,Desktop,Basic,No,1460
