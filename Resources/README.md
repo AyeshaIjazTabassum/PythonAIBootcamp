@@ -1,2 +1,3 @@
-- **store.csv** is for Day 7 Practice.
-- **sample.png** is for Day 16 Practice.
+- **store.csv** is for Day 7 related Practice.
+- **school1.csv** is for Day 8 related Practice.
+- **sample.png** is for Day 16 related Practice.
