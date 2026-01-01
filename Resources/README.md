@@ -1,1 +1,2 @@
-- sample.png for Day 16 Practice.
+- **store.csv** is for Day 7 Practice.
+- **sample.png** is for Day 16 Practice.
