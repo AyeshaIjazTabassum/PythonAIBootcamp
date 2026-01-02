@@ -3,3 +3,4 @@
 - **students_dataset.csv** is related to Day 9.
 - **heart.csv** is related to Assignment 2.
 - **sample.png** is related to Day 16.
+- Fruit-360 datset Version 1 for day 17 Practice. Link: https://www.kaggle.com/datasets/moltean/fruits/versions/1
