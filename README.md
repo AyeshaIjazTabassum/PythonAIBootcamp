@@ -217,3 +217,8 @@
 - Basic image preprocessing
 - Load and manipulate images
 - Basic image transformations
+
+**Day 17: Convolutional Neural Networks**
+- CNN architecture and concepts
+- Convolution, pooling, and filters
+
