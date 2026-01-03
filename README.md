@@ -222,3 +222,7 @@
 - CNN architecture and concepts
 - Convolution, pooling, and filters
 
+**Day 18: Convolutional Neural Networks Practice**
+- CNN concepts
+- Build CNN for image classification
+- MNIST dataset
