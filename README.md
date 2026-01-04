@@ -226,3 +226,9 @@
 - CNN concepts
 - Build CNN for image classification
 - MNIST dataset
+
+**Day 19: Transfer Learning**
+- Transfer learning concepts
+- Pre-trained models (ResNet, EfficientNet)
+- Fine-tune pre-trained model
+- Custom image classification project
