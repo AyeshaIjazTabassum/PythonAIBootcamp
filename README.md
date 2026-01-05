@@ -232,3 +232,10 @@
 - Pre-trained models (ResNet, EfficientNet)
 - Fine-tune pre-trained model
 - Custom image classification project
+
+**Day 20: NLP Fundamentals**
+- Text preprocessing (tokenization, stemming)
+- TF-IDF and word embeddings
+- Clean and preprocess text data
+- Naive Bayes for text
+- Sentiment analysis concepts
