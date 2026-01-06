@@ -239,3 +239,21 @@
 - Clean and preprocess text data
 - Naive Bayes for text
 - Sentiment analysis concepts
+# Assignment Week-4
+Assignment Details
+**1. CNN (Convolutional Neural Networks)**
+  - Project :Cat vs Dog Image Classifier
+  - Dataset: Kaggle Cats vs Dogs
+  - Goal: Binary image classification
+
+**2. Transfer Learning**
+  - Project : Flower Species Classification 
+  - Dataset: TensorFlow Flowers Dataset
+  - Model: MobileNetV2 / ResNet50 (pretrained)
+
+**3. NLP Project**
+  - Project : Spam Email / SMS Detection
+  - Dataset: SMS Spam Collection
+  - Goal: Spam vs Ham
+  - Bag of Words / TF-IDF
+  - Naive Bayes / Logistic Regression
