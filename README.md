@@ -240,7 +240,6 @@
 - Naive Bayes for text
 - Sentiment analysis concepts
 # Assignment Week-4
-Assignment Details
 **1. CNN (Convolutional Neural Networks)**
   - Project :Cat vs Dog Image Classifier
   - Dataset: Kaggle Cats vs Dogs
