@@ -256,3 +256,9 @@
   - Goal: Spam vs Ham
   - Bag of Words / TF-IDF
   - Naive Bayes / Logistic Regression
+
+# Week 5: Generative AI & Prompt Engineering
+**Day 21: Introduction to Generative AI**
+- What is Generative AI?
+- Differences from discriminative models
+- Explore different generative AI tools
