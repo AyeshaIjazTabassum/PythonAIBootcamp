@@ -241,17 +241,17 @@
 - Sentiment analysis concepts
 # Assignment Week-4
 **1. CNN (Convolutional Neural Networks)**
-  - Project :Cat vs Dog Image Classifier
+  - Project: Cat vs Dog Image Classifier
   - Dataset: Kaggle Cats vs Dogs
   - Goal: Binary image classification
 
 **2. Transfer Learning**
-  - Project : Flower Species Classification 
+  - Project: Flower Species Classification 
   - Dataset: TensorFlow Flowers Dataset
   - Model: MobileNetV2 / ResNet50 (pretrained)
 
 **3. NLP Project**
-  - Project : Spam Email / SMS Detection
+  - Project: Spam Email / SMS Detection
   - Dataset: SMS Spam Collection
   - Goal: Spam vs Ham
   - Bag of Words / TF-IDF
