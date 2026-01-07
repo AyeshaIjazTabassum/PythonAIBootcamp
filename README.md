@@ -262,3 +262,9 @@
 - What is Generative AI?
 - Differences from discriminative models
 - Explore different generative AI tools
+
+**Day 22: Prompt Engineering**
+- Effective prompting techniques
+- Zero-shot, few-shot, chain-of-thought
+- Practice prompt engineering
+- Build prompt templates
