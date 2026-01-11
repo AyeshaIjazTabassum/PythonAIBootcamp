@@ -268,3 +268,9 @@
 - Zero-shot, few-shot, chain-of-thought
 - Practice prompt engineering
 - Build prompt templates
+
+**Day 23: Working with AI APIs**
+- Google Generative AI SDK
+- System prompts and persona development
+- Build applications using AI APIs
+- Create different AI personas
