@@ -274,3 +274,8 @@
 - System prompts and persona development
 - Build applications using AI APIs
 - Create different AI personas
+
+**Day 24: Multimodal AI**
+- Speech to image
+- Build voice-to-art application
+- Experiment with multimodal workflows
