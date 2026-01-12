@@ -276,6 +276,6 @@
 - Create different AI personas
 
 **Day 24: Multimodal AI**
-- Speech to image
+- Speech to image model
 - Build voice-to-art application
 - Experiment with multimodal workflows
