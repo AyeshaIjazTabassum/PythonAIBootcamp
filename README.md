@@ -279,3 +279,9 @@
 - Speech to image model
 - Build voice-to-art application
 - Experiment with multimodal workflows
+
+**Day 25: Advanced Generative Techniques**
+- CLIP and BLIP models
+- Multimodal understanding
+- Build image search system
+- Visual question answering
