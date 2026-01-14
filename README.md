@@ -287,8 +287,6 @@
 - Visual question answering
 
 # Assignment Week-5
-**Task**
-
 Build a Chatbot on Hugging Face that includes atleast one of the following features:
 - Multimodality
 - Use of CLIP or BLIP 
