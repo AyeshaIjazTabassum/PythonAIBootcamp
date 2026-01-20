@@ -291,3 +291,11 @@ Build a Chatbot on Hugging Face that includes atleast one of the following featu
 - Multimodality
 - Use of CLIP or BLIP 
 - Different Personas
+
+# Week 6: Agentic AI & Multi-Agent Systems
+**Day 26: Introduction to AI Agents**
+- What are AI agents?
+- Agents vs chatbots
+- Agent capabilities (tools, memory, reasoning)
+- Set up LangChain environment
+- Build first simple agent
