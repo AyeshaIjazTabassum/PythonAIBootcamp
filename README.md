@@ -299,3 +299,9 @@ Build a Chatbot on Hugging Face that includes atleast one of the following featu
 - Agent capabilities (tools, memory, reasoning)
 - Set up LangChain environment
 - Build first simple agent
+
+**Day 27: LangChain Fundamentals**
+- Chains, tools, and memory in LangChain
+- Agent architectures
+- Create agents with different tools
+- Memory and conversation history
