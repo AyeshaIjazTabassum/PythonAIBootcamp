@@ -305,3 +305,8 @@ Build a Chatbot on Hugging Face that includes atleast one of the following featu
 - Agent architectures
 - Create agents with different tools
 - Memory and conversation history
+
+**Day 28: Advanced Agent Capabilities**
+- Tool usage and function calling
+- Reasoning and decision-making
+- Build research assistant agent
