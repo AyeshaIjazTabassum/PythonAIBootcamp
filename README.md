@@ -310,3 +310,9 @@ Build a Chatbot on Hugging Face that includes atleast one of the following featu
 - Tool usage and function calling
 - Reasoning and decision-making
 - Build research assistant agent
+
+**Day 29: Multi-Agent Systems**
+- Introduction to CrewAI
+- Multi-agent coordination
+- Set up first multi-agent system
+- Define agent roles and responsibilities
